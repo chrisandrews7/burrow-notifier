@@ -1,0 +1,25 @@
+{
+  "name": "borrow-notifier",
+  "version": "1.0.0",
+  "description": "Native notifications for borrow consumer lag issues",
+  "main": "index.js",
+  "dependencies": {
+    "node-notifier": "^5.3.0",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisandrews7/borrow-notifier.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrisandrews7/borrow-notifier/issues"
+  },
+  "homepage": "https://github.com/chrisandrews7/borrow-notifier#readme"
+}

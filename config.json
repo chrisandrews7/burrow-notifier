@@ -1,0 +1,8 @@
+{
+  "MAX_LAG_THRESHOLD": 100,
+  "PROBE_INTERVAL": 30000,
+  "PROBE_BASE_URL": "http://cluster-url",
+  "CONSUMERS_TO_PROBE": [
+    "app.name"
+  ]
+}
